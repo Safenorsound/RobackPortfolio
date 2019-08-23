@@ -21,7 +21,7 @@ aj@lkn.io | @ajlkn
 Credits:
 
 	Demo Images:
-		Unsplash (unsplash.com)
+		Unsplash (unsplash.com) @markusspiske, 
 
 	Icons:
 		Font Awesome (fontawesome.io)
