@@ -1,6 +1,6 @@
 This is a portfolio to showcase some projects and skills to potential employers. 
 
-The webpage was based off a demo page from the following source. 
+This project is still in progress and being updated regularly. The webpage was based off an open-source demo page from the following source: 
 
 Massively by HTML5 UP - https://html5up.net/massively
 html5up.net | aj@lkn.io @ajlkn
